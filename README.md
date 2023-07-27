@@ -10,7 +10,7 @@ The Amazon Project consists of an HTML file, a CSS file, and a JavaScript file. 
 
 The project comprises three main files: `index.html`, `amazon.css`, and `amazon.js`.
 
-#### `index.html`
+#### `amazon.html`
 
 This file serves as the main web page for the Amazon Project. It includes the following sections and elements:
 
