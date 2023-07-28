@@ -38,6 +38,5 @@ Experience the Amazon Project by following these steps:
 
 
 <div align="center">
-  <img src="images/amazon-mobile-logo.png" alt="Amazon Mobile Logo" width="100">
-  <p>Mobile-friendly design for a seamless shopping experience on the go.</p>
+   <p>Mobile-friendly design for a seamless shopping experience on the go.</p>
 </div>
