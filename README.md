@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![Amazon Logo](amazon-logo/amazon-logo-white.png) alt="Amazon Logo" width="200">
-  <h1>Amazon Project</h1>
+    <h1>Amazon Project</h1>
   <p>Step into the world of e-commerce with our Amazon-inspired project! This dynamic web application showcases an array of products with interactive features to manage your shopping experience.</p>
 </div>
 
